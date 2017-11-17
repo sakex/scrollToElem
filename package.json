@@ -1,0 +1,24 @@
+{
+  "name": "scroll_to_elem",
+  "version": "1.0.0",
+  "description": "Scroll to an element or a pixel on the Y axis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakex/scrollToElem.git"
+  },
+  "keywords": [
+    "Scroll",
+    "Browser",
+    "RequestAnimationFrame"
+  ],
+  "author": "Alexandre Senges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakex/scrollToElem/issues"
+  },
+  "homepage": "https://github.com/sakex/scrollToElem#readme"
+}
